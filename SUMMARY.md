@@ -6,6 +6,7 @@
 * [Customer\_churn](customerchurn.md)
   * [AdaBoost](adaboost.md)
   * [AsType](astype.md)
+  * Box
 
 ## Methods
 
