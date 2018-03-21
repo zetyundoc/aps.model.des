@@ -7,6 +7,7 @@
   * [AdaBoost](adaboost.md)
   * [AsType](astype.md)
   * Box
+  * [BucketLowFrequency](bucketlowfrequency.md)
 
 ## Methods
 
