@@ -3,8 +3,9 @@
 ## Overview
 
 * [概述](README.md)
-* Customer\_churn
-  * AdaBoost
+* [Customer\_churn](customerchurn.md)
+  * [AdaBoost](adaboost.md)
+  * [AsType](astype.md)
 
 ## Methods
 
