@@ -8,6 +8,8 @@
   * [AsType](astype.md)
   * Box
   * [BucketLowFrequency](bucketlowfrequency.md)
+  * [Chi2](chi2.md)
+  * [ChurnLabel](churnlabel.md)
 
 ## Methods
 
