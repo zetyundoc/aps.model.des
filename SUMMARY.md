@@ -11,6 +11,7 @@
   * [Chi2](chi2.md)
   * [ChurnLabel](churnlabel.md)
   * [ClassMapping](classmapping.md)
+  * [ConfusionMatrix](confusionmatrix.md)
 
 ## Methods
 
