@@ -12,6 +12,7 @@
   * [ChurnLabel](churnlabel.md)
   * [ClassMapping](classmapping.md)
   * [ConfusionMatrix](confusionmatrix.md)
+  * [DataPreprocessing](datapreprocessing.md)
 
 ## Methods
 
