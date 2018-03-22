@@ -21,6 +21,7 @@
   * [MissingFill](missingfill.md)
   * [MissingImpute](missingimpute.md)
   * [PearsonCorrelation](pearsoncorrelation.md)
+  * [Prediction](prediction.md)
 
 ## Methods
 
