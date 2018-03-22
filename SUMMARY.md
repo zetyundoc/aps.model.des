@@ -60,6 +60,7 @@
   * [Box](box.md)
   * [ClassMapping](classmapping.md)
   * [DataPreprocessing](datapreprocessing.md)
+  * [Dummy](dummy.md)
 
 ## Methods
 
