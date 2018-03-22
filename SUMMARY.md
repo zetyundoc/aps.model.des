@@ -69,6 +69,7 @@
   * [MissingFill](missingfill.md)
   * [MissingImpute](missingimpute.md)
   * [PolyNominalFeatures](polynominalfeatures.md)
+  * [QuantileTransformer](quantiletransformer.md)
 
 ## Methods
 
