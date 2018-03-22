@@ -62,6 +62,7 @@
   * [DataPreprocessing](datapreprocessing.md)
   * [Dummy](dummy.md)
   * [FunctionTransformer::preprocessing](functiontransformerpreprocessing.md)
+  * [HashEncoder](hashencoder.md)
 
 ## Methods
 
