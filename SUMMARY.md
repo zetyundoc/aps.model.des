@@ -32,6 +32,9 @@
   * [Union](union.md)
   * [ValueCounts](valuecounts.md)
   * [VariableSelection](variableselection.md)
+* [Dataframe](dataframe.md)
+  * [BucketLowFrequency](bucketlowfrequency.md)
+  * [DataTypes](datatypes.md)
 
 ## Methods
 
