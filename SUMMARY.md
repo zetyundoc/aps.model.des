@@ -20,7 +20,7 @@
   * [MissingDrop](missingdrop.md)
   * [MissingFill](missingfill.md)
   * [MissingImpute](missingimpute.md)
-  * PearsonCorrelation
+  * [PearsonCorrelation](pearsoncorrelation.md)
 
 ## Methods
 
