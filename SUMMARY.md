@@ -19,6 +19,7 @@
   * [MissingCheck](missingcheck.md)
   * [MissingDrop](missingdrop.md)
   * [MissingFill](missingfill.md)
+  * [MissingImpute](missingimpute.md)
 
 ## Methods
 
