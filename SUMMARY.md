@@ -24,6 +24,7 @@
   * [Prediction](prediction.md)
   * [QuantileTransformer](quantiletransformer.md)
   * [RFE](rfe.md)
+  * Sample
 
 ## Methods
 
