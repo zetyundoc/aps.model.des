@@ -37,6 +37,7 @@
   * [DataTypes](datatypes.md)
   * [MissingCheck](missingcheck.md)
   * [SplitXY](splitxy.md)
+  * [ValueCounts](valuecounts.md)
 
 ## Methods
 
