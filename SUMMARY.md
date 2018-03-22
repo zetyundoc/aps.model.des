@@ -61,6 +61,7 @@
   * [ClassMapping](classmapping.md)
   * [DataPreprocessing](datapreprocessing.md)
   * [Dummy](dummy.md)
+  * [FunctionTransformer::preprocessing](functiontransformerpreprocessing.md)
 
 ## Methods
 
