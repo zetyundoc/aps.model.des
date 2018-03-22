@@ -6,7 +6,7 @@
 * [Customer\_churn](customerchurn.md)
   * [AdaBoost](adaboost.md)
   * [AsType](astype.md)
-  * Box
+  * [Box](box.md)
   * [BucketLowFrequency](bucketlowfrequency.md)
   * [Chi2](chi2.md)
   * [ChurnLabel](churnlabel.md)
@@ -55,8 +55,10 @@
   * [Prediction](metrics/prediction.md)
 * [Model\_selection](modelselection.md)
   * [TrainTestSplit](modelselection/traintestsplit.md)
-* Preprocessing
+* [Preprocessing](preprocessing.md)
   * [AsType](astype.md)
+  * [Box](box.md)
+  * [ClassMapping](classmapping.md)
 
 ## Methods
 
