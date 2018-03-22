@@ -23,6 +23,7 @@
   * [PearsonCorrelation](pearsoncorrelation.md)
   * [Prediction](prediction.md)
   * [QuantileTransformer](quantiletransformer.md)
+  * [RFE](rfe.md)
 
 ## Methods
 
