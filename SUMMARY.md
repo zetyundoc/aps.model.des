@@ -42,6 +42,7 @@
 * [Ensemble](ensemble.md)
   * [AdaBoost](adaboost.md)
   * [Stacking](stacking.md)
+  * [Xgboost::ensemble](xgboostensemble.md)
 
 ## Methods
 
