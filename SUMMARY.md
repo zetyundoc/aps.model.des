@@ -13,6 +13,7 @@
   * [ClassMapping](classmapping.md)
   * [ConfusionMatrix](confusionmatrix.md)
   * [DataPreprocessing](datapreprocessing.md)
+  * [DataTypes](datatypes.md)
 
 ## Methods
 
