@@ -16,6 +16,7 @@
   * [DataTypes](datatypes.md)
   * [Dummy](dummy.md)
   * [Imbalance](imbalance.md)
+  * [MissingCheck](missingcheck.md)
 
 ## Methods
 
