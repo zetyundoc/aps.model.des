@@ -43,8 +43,9 @@
   * [AdaBoost](adaboost.md)
   * [Stacking](stacking.md)
   * [Xgboost::ensemble](xgboostensemble.md)
-* FeatureSelection
+* [FeatureSelection](featureselection.md)
   * [Chi2](chi2.md)
+  * [MINI:feature\_selection](minifeatureselection.md)
 
 ## Methods
 
