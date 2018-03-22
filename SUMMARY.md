@@ -26,6 +26,7 @@
   * [RFE](rfe.md)
   * [Sample](sample.md)
   * [SelectFromModel](selectfrommodel.md)
+  * SplitXY
 
 ## Methods
 
