@@ -28,6 +28,7 @@
   * [SelectFromModel](selectfrommodel.md)
   * [SplitXY](splitxy.md)
   * [Stacking](stacking.md)
+  * [TrainTestSplit](traintestsplit.md)
 
 ## Methods
 
