@@ -15,6 +15,7 @@
   * [DataPreprocessing](datapreprocessing.md)
   * [DataTypes](datatypes.md)
   * [Dummy](dummy.md)
+  * [Imbalance](imbalance.md)
 
 ## Methods
 
