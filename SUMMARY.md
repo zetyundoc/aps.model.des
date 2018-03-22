@@ -25,7 +25,7 @@
   * [QuantileTransformer](quantiletransformer.md)
   * [RFE](rfe.md)
   * [Sample](sample.md)
-  * SelectFromModel
+  * [SelectFromModel](selectfrommodel.md)
 
 ## Methods
 
