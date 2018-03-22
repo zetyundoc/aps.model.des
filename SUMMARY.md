@@ -31,7 +31,7 @@
   * [TrainTestSplit](traintestsplit.md)
   * [Union](union.md)
   * [ValueCounts](valuecounts.md)
-  * VariableSelection
+  * [VariableSelection](variableselection.md)
 
 ## Methods
 
