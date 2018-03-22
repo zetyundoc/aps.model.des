@@ -65,6 +65,10 @@
   * [HashEncoder](hashencoder.md)
   * [Imbalance](imbalance.md)
   * [MinMaxScaler::preprocessing](minmaxscalerpreprocessing.md)
+  * [MissingDrop](missingdrop.md)
+  * [MissingFill](missingfill.md)
+  * [MissingImpute](missingimpute.md)
+  * [PolyNominalFeatures](polynominalfeatures.md)
 
 ## Methods
 
