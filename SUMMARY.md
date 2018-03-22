@@ -53,6 +53,8 @@
 * [Metrics](metrics.md)
   * [ConfusionMatrix](metrics/confusionmatrix.md)
   * [Prediction](metrics/prediction.md)
+* [Model\_selection](modelselection.md)
+  * [TrainTestSplit](modelselection/traintestsplit.md)
 
 ## Methods
 
