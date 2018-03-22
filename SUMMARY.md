@@ -64,6 +64,7 @@
   * [FunctionTransformer::preprocessing](functiontransformerpreprocessing.md)
   * [HashEncoder](hashencoder.md)
   * [Imbalance](imbalance.md)
+  * [MinMaxScaler::preprocessing](minmaxscalerpreprocessing.md)
 
 ## Methods
 
