@@ -29,6 +29,7 @@
   * [SplitXY](splitxy.md)
   * [Stacking](stacking.md)
   * [TrainTestSplit](traintestsplit.md)
+  * [Union](union.md)
 
 ## Methods
 
