@@ -30,6 +30,7 @@
   * [Stacking](stacking.md)
   * [TrainTestSplit](traintestsplit.md)
   * [Union](union.md)
+  * ValueCounts
 
 ## Methods
 
