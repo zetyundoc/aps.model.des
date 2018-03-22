@@ -17,7 +17,7 @@
   * [Dummy](dummy.md)
   * [Imbalance](imbalance.md)
   * [MissingCheck](missingcheck.md)
-  * MissingDrop
+  * [MissingDrop](missingdrop.md)
 
 ## Methods
 
