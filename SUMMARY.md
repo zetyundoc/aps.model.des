@@ -49,6 +49,9 @@
   * [PearsonCorrelation](pearsoncorrelation.md)
   * [RFE](rfe.md)
   * [SelectFromModel](selectfrommodel.md)
+  * [Union](union.md)
+* [Metrics](metrics.md)
+  * [ConfusionMatrix](metrics/confusionmatix.md)
 
 ## Methods
 
