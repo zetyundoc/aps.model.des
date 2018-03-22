@@ -14,6 +14,7 @@
   * [ConfusionMatrix](confusionmatrix.md)
   * [DataPreprocessing](datapreprocessing.md)
   * [DataTypes](datatypes.md)
+  * [Dummy](dummy.md)
 
 ## Methods
 
