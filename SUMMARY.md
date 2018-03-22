@@ -38,6 +38,10 @@
   * [MissingCheck](missingcheck.md)
   * [SplitXY](splitxy.md)
   * [ValueCounts](valuecounts.md)
+  * [VariableSelection](variableselection.md)
+* [Ensemble](ensemble.md)
+  * [AdaBoost](adaboost.md)
+  * [Stacking](stacking.md)
 
 ## Methods
 
