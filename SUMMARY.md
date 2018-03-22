@@ -27,6 +27,7 @@
   * [Sample](sample.md)
   * [SelectFromModel](selectfrommodel.md)
   * [SplitXY](splitxy.md)
+  * [Stacking](stacking.md)
 
 ## Methods
 
