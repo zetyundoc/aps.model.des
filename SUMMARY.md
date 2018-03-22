@@ -22,6 +22,7 @@
   * [MissingImpute](missingimpute.md)
   * [PearsonCorrelation](pearsoncorrelation.md)
   * [Prediction](prediction.md)
+  * QuantileTransformer
 
 ## Methods
 
