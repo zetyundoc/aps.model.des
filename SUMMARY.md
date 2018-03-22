@@ -55,6 +55,8 @@
   * [Prediction](metrics/prediction.md)
 * [Model\_selection](modelselection.md)
   * [TrainTestSplit](modelselection/traintestsplit.md)
+* Preprocessing
+  * [AsType](astype.md)
 
 ## Methods
 
