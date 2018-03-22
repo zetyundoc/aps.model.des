@@ -36,6 +36,7 @@
   * [BucketLowFrequency](bucketlowfrequency.md)
   * [DataTypes](datatypes.md)
   * [MissingCheck](missingcheck.md)
+  * [SplitXY](splitxy.md)
 
 ## Methods
 
