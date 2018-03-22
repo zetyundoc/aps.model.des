@@ -52,6 +52,7 @@
   * [Union](union.md)
 * [Metrics](metrics.md)
   * [ConfusionMatrix](metrics/confusionmatrix.md)
+  * [Prediction](metrics/prediction.md)
 
 ## Methods
 
