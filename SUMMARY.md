@@ -59,6 +59,7 @@
   * [AsType](astype.md)
   * [Box](box.md)
   * [ClassMapping](classmapping.md)
+  * [DataPreprocessing](datapreprocessing.md)
 
 ## Methods
 
