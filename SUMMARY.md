@@ -51,7 +51,7 @@
   * [SelectFromModel](selectfrommodel.md)
   * [Union](union.md)
 * [Metrics](metrics.md)
-  * [ConfusionMatrix](metrics/confusionmatix.md)
+  * [ConfusionMatrix](metrics/confusionmatrix.md)
 
 ## Methods
 
