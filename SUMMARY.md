@@ -46,6 +46,9 @@
 * [FeatureSelection](featureselection.md)
   * [Chi2](chi2.md)
   * [MINI:feature\_selection](minifeatureselection.md)
+  * [PearsonCorrelation](pearsoncorrelation.md)
+  * [RFE](rfe.md)
+  * [SelectFromModel](selectfrommodel.md)
 
 ## Methods
 
