@@ -35,6 +35,7 @@
 * [Dataframe](dataframe.md)
   * [BucketLowFrequency](bucketlowfrequency.md)
   * [DataTypes](datatypes.md)
+  * [MissingCheck](missingcheck.md)
 
 ## Methods
 
