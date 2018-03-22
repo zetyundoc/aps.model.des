@@ -70,6 +70,7 @@
   * [MissingImpute](missingimpute.md)
   * [PolyNominalFeatures](polynominalfeatures.md)
   * [QuantileTransformer](quantiletransformer.md)
+  * [StandardScaler::preprocessing](standardscalerpreprocessing.md)
 
 ## Methods
 
